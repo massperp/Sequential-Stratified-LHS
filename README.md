@@ -20,7 +20,7 @@ A worked out example illustrating how to use the Matlab functions is available i
 
 ## Citing
 
-If you benefit from this implementation, please cite the accompanying paper:
+If you benefit from this implementation, please cite the accompanying [paper](https://doi.org/10.1007/978-3-031-59762-6_19):
 
 ```
 @inproceedings{KrumscheidPettersson23,
