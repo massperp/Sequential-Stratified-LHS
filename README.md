@@ -23,11 +23,13 @@ A worked out example illustrating how to use the Matlab functions is available i
 If you benefit from this implementation, please cite the accompanying paper:
 
 ```
-@misc{KrumscheidPettersson23,
-Author = {S. Krumscheid and P. Pettersson},
-Title = {Sequential Estimation using Hierarchically Stratified Domains with Latin Hypercube Sampling},
-Year = {2023},
-Eprint = {arXiv:2305.13421}
+@inproceedings{KrumscheidPettersson23,
+author = {S. Krumscheid and P. Pettersson},
+title = {Sequential Estimation using Hierarchically Stratified Domains with Latin Hypercube Sampling},
+year = {2024},
+booktitle    = {Monte Carlo and Quasi-Monte Carlo Methods : MCQMC 2022, Linz, Austria, July 17–22. Ed.: A. Hinrichs},
+doi          = {10.1007/978-3-031-59762-6_19},
+publisher    = {Springer International Publishing}
 }
 ```
 
