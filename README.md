@@ -27,9 +27,9 @@ If you benefit from this implementation, please cite the accompanying [paper](ht
 author = {S. Krumscheid and P. Pettersson},
 title = {Sequential Estimation using Hierarchically Stratified Domains with Latin Hypercube Sampling},
 year = {2024},
-booktitle    = {Monte Carlo and Quasi-Monte Carlo Methods : MCQMC 2022, Linz, Austria, July 17–22. Ed.: A. Hinrichs},
-doi          = {10.1007/978-3-031-59762-6_19},
-publisher    = {Springer International Publishing}
+booktitle = {Monte Carlo and Quasi-Monte Carlo Methods : MCQMC 2022, Linz, Austria, July 17–22. Ed.: A. Hinrichs},
+doi = {10.1007/978-3-031-59762-6_19},
+publisher = {Springer International Publishing}
 }
 ```
 
